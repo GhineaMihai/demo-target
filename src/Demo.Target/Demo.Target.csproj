@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <BtCmsCommonPackagesVersion>1.0.0-dev.2</BtCmsCommonPackagesVersion>
+    <BtCmsCommonPackagesVersion>1.0.0-dev.3</BtCmsCommonPackagesVersion>
   </PropertyGroup>
 </Project>
